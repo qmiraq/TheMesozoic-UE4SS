@@ -1,0 +1,25 @@
+CheatManagerEnablerMod : 0
+ActorDumperMod : 0
+ConsoleCommandsMod : 1
+ConsoleEnablerMod : 1
+SplitScreenMod : 0
+LineTraceMod : 0
+BPModLoaderMod : 0
+BPML_GenericFunctions : 0
+jsbLuaProfilerMod : 0
+miniEniac : 1
+
+
+
+
+; Built-in keybinds, do not move up!
+HerbivoreChat : 1
+GroupLimitsProbe : 0
+GroupLimits : 1
+Keybinds : 0
+MesozoicPteraStamina : 1
+TreeKnockGuard : 1
+MesozoicWeatherProbe : 0
+MesozoicWeatherController : 1
+MesozoicAIProbe : 1
+DinoStorage : 1

@@ -1,0 +1,29 @@
+# Game / UE4SS runtime binaries
+*.exe
+*.dll
+
+# Crash dumps
+*.dmp
+
+# Runtime logs
+*.log
+
+# Generated/cache directories
+appcache/
+logs/
+
+# UE4SS / Steam runtime configuration
+imgui.ini
+config/
+
+# Generated runtime state inside mods
+Mods/**/Saved/
+
+# Generated runtime/state files in mod roots
+Mods/**/*.ndjson
+Mods/**/*.offset
+Mods/**/*.tsv
+
+# Local backup copies
+Mods/**/*.backup*
+Mods/**/*.before-*
